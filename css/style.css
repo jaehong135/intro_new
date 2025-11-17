@@ -10,7 +10,7 @@
     --stroke: #D7D7D7;
 }
 
-body {background: #000;}
+body {background: #000;overflow: hidden;}
 /* 스플래시 CSS */
 
 .intro {  position: fixed;
